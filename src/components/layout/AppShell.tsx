@@ -1,5 +1,5 @@
 import type { ReactNode } from "react";
-import { CompareSelectionProvider } from "../../features/comparison/CompareSelectionContext.tsx";
+import { CompareSelectionProvider } from "../../features/comparison/CompareSelectionContext";
 import { ComparisonTray } from "../../features/comparison/ComparisonTray";
 import { SavedPackagesProvider } from "../../features/saved/SavedPackagesProvider";
 import { SiteFooter } from "./SiteFooter";
